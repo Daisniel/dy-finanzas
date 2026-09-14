@@ -106,14 +106,19 @@ The demo generator does **not** read or transform any production database.
 
 ## Running locally
 
-### Windows helper scripts
+## Quick start — portfolio demo
 
-```text
-1. instalar.bat
-2. iniciar.bat            -> starts with the current local database
-   or
-   ejecutar_demo.bat      -> resets to the synthetic demo and starts the app
-```
+> **Important:** To open the application with the included sample data, use `ejecutar_demo.bat`.
+>
+> `iniciar.bat` starts the application using the current local database (`data/impercontrol.db`).  
+> If no local database exists, the application creates a new empty database.
+
+### Windows
+
+1. Run `instalar.bat` once to create the virtual environment and install dependencies.
+2. Run `ejecutar_demo.bat` to load the synthetic demo database and start the application.
+
+Use `iniciar.bat` only when you want to continue working with the existing local database.
 
 ### Command line
 
