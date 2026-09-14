@@ -38,27 +38,27 @@ The project was created around a real operational need: keeping clients, measure
 
 ### Dashboard
 
-![D&Y Finanzas Dashboard](docs/screenshots/dashboard.jpg)
+![D&Y Finanzas Dashboard](docs/screenshots/Dashboard.jpg)
 
 ### Client management
 
-![Client management](docs/screenshots/clientes.jpg)
+![Client management](docs/screenshots/Clientes.jpg)
 
 ### Job management
 
-![Job management](docs/screenshots/trabajos.jpg)
+![Job management](docs/screenshots/Trabajos.jpg)
 
 ### Materials and inventory
 
-![Materials and inventory](docs/screenshots/materiales.jpg)
+![Materials and inventory](docs/screenshots/Materiales.jpg)
 
 ### Cash ledger
 
-![Cash ledger](docs/screenshots/caja.jpg)
+![Cash ledger](docs/screenshots/Caja.jpg)
 
 ### Financial report
 
-![Financial report](docs/screenshots/reporte-financiero.jpg)
+![Financial report](docs/screenshots/Reporte-financiero.jpg)
 
 ## Demo database
 
