@@ -34,6 +34,32 @@ The project was created around a real operational need: keeping clients, measure
 - Local-first architecture with database import/export support
 - Reproducible synthetic dataset for portfolio review
 
+## Screenshots
+
+### Dashboard
+
+![D&Y Finanzas Dashboard](docs/screenshots/dashboard.jpg)
+
+### Client management
+
+![Client management](docs/screenshots/clientes.jpg)
+
+### Job management
+
+![Job management](docs/screenshots/trabajos.jpg)
+
+### Materials and inventory
+
+![Materials and inventory](docs/screenshots/materiales.jpg)
+
+### Cash ledger
+
+![Cash ledger](docs/screenshots/caja.jpg)
+
+### Financial report
+
+![Financial report](docs/screenshots/reporte-financiero.jpg)
+
 ## Demo database
 
 The repository includes `data/demo.db`, a synthetic SQLite database created specifically for this public portfolio.
